@@ -13,7 +13,20 @@
             "file": "Untitled.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "60e19a587ca8ea28"
+      },
+      {
+        "id": "2cf3e52828edfd96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "preview"
+          }
+        },
+        "group": "60e19a587ca8ea28"
       }
     ],
     "direction": "vertical"
@@ -86,6 +99,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md"
+    "Untitled.md",
+    "README.md",
+    "API-to-Webhook/README.md",
+    "mangadex-simplified/README.md",
+    "Reddit-Saved-Article-Organizer/README.md",
+    "python-adb-backup-automation/README.md",
+    "PDF-Adjuster/README.md"
   ]
 }
