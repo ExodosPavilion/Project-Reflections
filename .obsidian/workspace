@@ -6,11 +6,10 @@
       {
         "id": "f53981d81aa23c6b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/mangadex-simplified/Reflection.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -19,10 +18,11 @@
       {
         "id": "e0d0230b4612f0d6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/mangadex-simplified/Reflection.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/mangadex-simplified/Reflection.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "3D/Blender Guru Tutorial/Level 1.md",
+    "3D/Attachments/3D/move.png",
     "Coding/mangadex-simplified/Reflection.md",
     "Coding/mangadex-simplified/Commit Log.md",
     "Coding/mangadex-simplified/attachments/receivedData.png",
     "Coding/mangadex-simplified/attachments/targetData.png",
     "Coding/mangadex-simplified/README.md",
-    "README.md",
-    "3D/Blender Guru Tutorial/Level 1.md",
     "3D/Blender Guru Tutorial/Level 2.md",
-    "3D/Blender Guru Tutorial/Level 6.md",
-    "3D/Shortcuts.md"
+    "3D/Blender Guru Tutorial/Level 6.md"
   ]
 }
