@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccb702f08df0434",
+        "id": "f53981d81aa23c6b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Coding/mangadex-simplified/Reflection.md",
             "mode": "source"
           }
         },
-        "group": "e4c291e59ce8cb9b"
+        "group": "b639226915828337"
       },
       {
-        "id": "2cf3e52828edfd96",
+        "id": "e0d0230b4612f0d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Coding/mangadex-simplified/Reflection.md",
             "mode": "preview"
           }
         },
-        "group": "e4c291e59ce8cb9b"
+        "group": "b639226915828337"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Coding/mangadex-simplified/Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Coding/mangadex-simplified/Reflection.md",
+    "Coding/mangadex-simplified/Commit Log.md",
+    "Coding/mangadex-simplified/attachments/receivedData.png",
+    "Coding/mangadex-simplified/attachments/targetData.png",
+    "Coding/mangadex-simplified/README.md",
     "README.md",
-    "Reddit-Saved-Article-Organizer/Reflection.md",
-    "mangadex-simplified/Commit Log.md",
-    "API-to-Webhook/Commit Log.md",
-    "Reddit-Saved-Article-Organizer/Commit Log.md",
-    "python-adb-backup-automation/Commit Log.md",
-    "Reddit-Saved-Article-Organizer/README.md",
-    "PDF-Adjuster/Commit Log.md",
-    "PDF-Adjuster/README.md",
-    "API-to-Webhook/Reflection.md"
+    "3D/Blender Guru Tutorial/Level 1.md",
+    "3D/Blender Guru Tutorial/Level 2.md",
+    "3D/Blender Guru Tutorial/Level 6.md",
+    "3D/Shortcuts.md"
   ]
 }
