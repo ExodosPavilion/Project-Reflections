@@ -1,6 +1,6 @@
 ![[Coding/mangadex-simplified/README]]
 
-As mentioned in the readme the goal of this project was to take the html data from mangadex's frontpage and extract only the latest chapters from it. (As highlighted in the following image)
+As mentioned in the README the goal of this project was to take the HTML data from mangadex's front page and extract only the latest chapters from it. (As highlighted in the following image)
 ![[targetData.png]]
 
 By commit ![[Coding/mangadex-simplified/Commit Log#0fbf08962cc95b5ba4854802a62015851a2fe5bd | 0fbf089]] I had managed to implement this such that I can close the project as a success
